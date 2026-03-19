@@ -1,3 +1,4 @@
 # fit
 website
-you can fimd all you exercise here
+you can find all you exercise here
+hello there
